@@ -8,5 +8,6 @@ livresBlancs :
     designation2 : Le marketing	
 OuiNonLivre:	
 -   choix : OUI
+    URL: http://localhost:1313/readbook/
 
 image : images/portfolio/Reaslisation_7.jpg
